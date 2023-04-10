@@ -26,6 +26,7 @@ const Header = () => {
         Hello, world!
       </h1>
       <table className={styles.logTable}>
+        
         <thead>
           <tr>
             <th>Time</th>
