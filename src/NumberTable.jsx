@@ -16,7 +16,7 @@ function NumberTable() {
       <button onClick={handleGenerateNumber}>Generate Number</button>
       <div className={styles.numberBox}>{number}</div>
       <table className={styles.table}>
-        <thead>
+       <thead>
           <tr>
             <th>Number List</th>
           </tr>
